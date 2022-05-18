@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DavaLizano
-- 👀 I'm interested in video games, music, books and computers.
 - 🌱 I’m currently learning about database, Python, SQL and C#
 
 <!---
